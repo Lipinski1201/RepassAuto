@@ -55,7 +55,7 @@ Visualizar veículos e orçamentos em aberto, em execução e finalizados.
 - Os usuários precisarão inserir essas informações manualmente.
 
 # Repositórios 
-- Back-end: <a href="https://github.com/Lipinski1201/RepassAuto-Frontend.git">Repositório do Backend</a>
+- Back-end: <a href="https://github.com/Lipinski1201/RepassAuto-Backend.git">Repositório do Backend</a>
 - Front-end: <a href="https://github.com/Lipinski1201/RepassAuto-Frontend.git">Repositório do Frontend</a>
 
 # Protótipo 
